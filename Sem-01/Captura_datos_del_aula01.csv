@@ -1,0 +1,26 @@
+Registro,Nombre,Edad,Peso_kg,Altura,NivelC_BigData,NivelC_SIG,Conoce_lenguajes,Dominio_lenguaje,Entorno_programacion,Ciudad
+13/07/2024 16:18:46,Persona 1,31,72,1.69,Bajo,Bajo,"Python, JavaScript, PHP, Otros",Python,VS Code,Santa Cruz de la Sierra
+13/07/2024 16:19:05,Persona 2,30,88,1.69,Bajo,Nulo,"Python, JavaScript, C++, C#, PHP, Otros",Python,Pycharm,Santa Cruz de la Sierra
+13/07/2024 16:19:13,Persona 3,28,84,1.71,Bajo,Nulo,"Python, C++",Python,Visual Studio Code,La Paz
+13/07/2024 16:23:09,Persona 4,39,90,1.74,Medio,Nulo,"Python, JavaScript, C#, PHP, Otros",C#,Visual Studio Code,Santa Cruz de la Sierra
+13/07/2024 16:32:28,Persona 5,32,55,1.51,Medio,Nulo,"Python, JavaScript, C#, Otros",C#,Visual Studio Code,Santa Cruz de la Sierra
+13/07/2024 16:33:20,Persona 6,38,70,1.7,Medio,bajo,PHP,PHP,Visual Studio Code ,Potosí 
+13/07/2024 16:46:11,,,,,,,,,,
+13/07/2024 16:50:15,Persona 7,,,,Bajo,bajo,"Python, JavaScript, C#",Otro,Intelligent IDE,La Paz
+13/07/2024 16:52:02,Persona 8,41,80,1.64,Nulo,Nulo,"JavaScript, C#, PHP",PHP,VsCode,La Paz
+13/07/2024 16:52:58,Persona 9,24,72,1.7,Bajo,Medio,"Python, JavaScript, C++, C#, Object pascal, PHP",C#,Visual Studio Code,Santa Cruz de la Sierra
+13/07/2024 16:59:51,Persona 10,27,90,1.71,Bajo,Nulo,C#,C#,Visual Estudio ,Vallegrande 
+13/07/2024 17:07:40,Persona 11,24,55,1.62,Bajo,Nulo,"Python, Otros",Otro,"Visual Studio Code, Android studio",Santa Cruz de la Sierra
+13/07/2024 17:14:14,Persona 12,29,75,1.71,Bajo,bajo,"Python, C#, PHP",Python,Visual Studio Code,Santa Cruz de la Sierra
+13/07/2024 17:15:18,Persona 13,35,66,1.68,Bajo,Nulo,C++,C++,Visual .net,Santa Cruz de la Sierra
+13/07/2024 17:16:24,Persona 14,23,58,1.58,Bajo,Medio,"Python, JavaScript, C++, C#, PHP",PHP,Visual Studio Code,Santa Cruz de la Sierra
+13/07/2024 17:19:21,Persona 15,29,85,1.79,Nulo,Nulo,"Python, JavaScript, C++",Python,Jetbrains,Santa Cruz de la Sierra
+13/07/2024 17:20:06,Persona 16,36,66,1.63,Bajo,bajo,"JavaScript, C++, C#",JavaScript,Java,Santa Cruz de la Sierra
+13/07/2024 17:20:10,Persona 17,24,63,1.75,Bajo,Medio,"Python, JavaScript, C++, C#, Object pascal, PHP, Otros",C#,Visual Studio Code,Santa Cruz de la Sierra
+13/07/2024 17:20:14,Persona 18,39,60,1.61,Alto,bajo,"Python, JavaScript, C++, C#",C#,Visual Studio Code,Cochabamba
+13/07/2024 17:21:26,Persona 19,32,100,1.72,Bajo,Nulo,C#,C#,Visual Studio,Santa Cruz de la Sierra
+14/07/2024 8:34:30,Persona 20,35,68,1.55,Bajo,bajo,"Python, JavaScript, C++, C#",C#,Visual Studio Code,Santa Cruz de la Sierra
+15/07/2024 7:08:52,Persona 20,35,78,1.55,Bajo,bajo,"JavaScript, C++, C#",C#,Visual Studio Code,Santa Cruz de la Sierra
+15/07/2024 9:35:02,Persona 21,37,87,1.7,Bajo,bajo,"C#, PHP",C#,Visual Studio Code,Santa Cruz de la Sierra
+15/07/2024 12:09:31,Persona 22,22,60,1.6,Bajo,Medio,"Python, JavaScript, PHP",PHP, Visual Studio Code,Warnes
+15/07/2024 22:45:53,Persona 23,49,60,1.67,Bajo,bajo,"Python, C++, C#",Otro,Visual Studio ,Santa Cruz de la Sierra
